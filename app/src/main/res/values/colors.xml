@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleur principale de l'application (violet/indigo) -->
+    <color name="purple_primary">#5E60CE</color>
+    <color name="purple_primary_dark">#4A4CB8</color>
+    <color name="purple_light">#7B7DD6</color>
+
+    <!-- Couleur d'accentuation -->
+    <color name="accent_color">#5E60CE</color>
+
+    <!-- Couleurs de fond -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="input_background">#F5F5F5</color>
+
+    <!-- Couleurs de texte -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Couleurs des boutons -->
+    <color name="button_delete">#FF5252</color>
+    <color name="button_edit_bg">#FFFFFF</color>
+    <color name="button_edit_text">#5E60CE</color>
+
+    <!-- Couleurs des badges -->
+    <color name="badge_background">#FFFFFF</color>
+    <color name="badge_text">#5E60CE</color>
+
+    <!-- Couleurs du sélecteur -->
+    <color name="selector_inactive">#E8E8E8</color>
+    <color name="selector_active">#FFFFFF</color>
+
+    <!-- Couleurs des borders -->
+    <color name="border_light">#CCCCCC</color>
+    <color name="border_inactive">#E0E0E0</color>
+</resources>
